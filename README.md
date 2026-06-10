@@ -11,7 +11,11 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: 
 
 ## Program:
+<img width="1488" height="695" alt="Screenshot 2026-06-11 001229" src="https://github.com/user-attachments/assets/b6437561-6bd1-4be5-ab15-eb567367aaae" />
+
 
 ## Output:
+<img width="1467" height="392" alt="Screenshot 2026-06-11 001238" src="https://github.com/user-attachments/assets/b381630b-6eed-4169-8ae8-527b0a833769" />
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
